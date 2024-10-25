@@ -1,0 +1,29 @@
+{
+  "name": "sm-clipboard-formatter",
+  "version": "1.0.0",
+  "description": "a npm package which automatically formats clipboard content when pasted.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geek-saurav/sm-clipboard-formatter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "saurav kumar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/geek-saurav/sm-clipboard-formatter/issues"
+  },
+  "homepage": "https://github.com/geek-saurav/sm-clipboard-formatter#readme",
+  "dependencies": {
+    "clipboardy": "^4.0.0",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "lodash": "^4.17.21"
+  }
+}
