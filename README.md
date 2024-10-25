@@ -17,4 +17,4 @@ This package is ideal for developers and content creators who frequently copy-pa
 To install the Smart Clipboard Formatter, use npm:
 
 ```bash
-npm install smart-clipboard-formatter
+npm i sm-clipboard-formatter
